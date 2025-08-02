@@ -1,0 +1,1 @@
+In the above program, a Scanner object, reader is created to read a number from the user's keyboard. The entered number is then stored in a variable num.
