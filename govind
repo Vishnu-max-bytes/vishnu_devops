@@ -1,1 +1,2 @@
 In the above program, a Scanner object, reader is created to read a number from the user's keyboard. The entered number is then stored in a variable num.
+Configure the connection between an EC2 instance and a database to allow traffic flow between them
