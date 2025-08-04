@@ -11,3 +11,5 @@ Adding extra configurations
 
 # check the count of 2
 count = numbers.count(2)
+# Output: Count of 2: 3
+Adding extra configurations
